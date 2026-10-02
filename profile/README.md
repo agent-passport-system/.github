@@ -10,6 +10,8 @@ An open protocol and tools for verifiable agent authority. APS combines cryptogr
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/13536/badge)](https://www.bestpractices.dev/projects/13536)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/agent-passport-system/agent-passport-system/badge)](https://scorecard.dev/viewer/?uri=github.com/agent-passport-system/agent-passport-system)
 
+npm, license and OpenSSF badges refer to the TypeScript SDK. PyPI refers to the Python SDK.
+
 [Website](https://agent-passport.org) · [Individual IETF Internet-Draft](https://datatracker.ietf.org/doc/draft-pidlisnyi-aps/) · [TypeScript quickstart](https://github.com/agent-passport-system/agent-passport-system#readme)
 
 ## Choose a starting point
