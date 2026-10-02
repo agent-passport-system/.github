@@ -1,6 +1,6 @@
 # Agent Passport System
 
-<p align="center"><img src="org-header.png" alt="Agent Passport System. Govern actions. Attribute outcomes." width="100%"></p>
+<p align="center"><img src="banner.png" alt="Agent Passport System banner. Governance infrastructure for the agent economy." width="100%"></p>
 
 An open protocol and tools for verifiable agent authority. APS combines cryptographic identity, scoped delegation and signed evidence for agents acting on behalf of people and organizations. Enforcement applies at the boundaries where APS checks are integrated.
 
