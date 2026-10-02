@@ -4,6 +4,12 @@
 
 An open protocol and tools for verifiable agent authority. APS combines cryptographic identity, scoped delegation and signed evidence for agents acting on behalf of people and organizations. Enforcement applies at the boundaries where APS checks are integrated.
 
+[![npm](https://img.shields.io/npm/v/agent-passport-system?label=npm)](https://www.npmjs.com/package/agent-passport-system)
+[![PyPI](https://img.shields.io/pypi/v/agent-passport-system?label=PyPI)](https://pypi.org/project/agent-passport-system/)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](https://github.com/agent-passport-system/agent-passport-system/blob/main/LICENSE)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/13536/badge)](https://www.bestpractices.dev/projects/13536)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/agent-passport-system/agent-passport-system/badge)](https://scorecard.dev/viewer/?uri=github.com/agent-passport-system/agent-passport-system)
+
 [Website](https://agent-passport.org) · [Individual IETF Internet-Draft](https://datatracker.ietf.org/doc/draft-pidlisnyi-aps/) · [TypeScript quickstart](https://github.com/agent-passport-system/agent-passport-system#readme)
 
 ## Choose a starting point
